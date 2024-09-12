@@ -45,6 +45,7 @@ jobs:
         max-score: 1
     - name: Step 4 Make a task list
       id: step-4-make-a-task-list
+      ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
       # uses: classroom-resources/autograding-command-grader@v1
       with:
         test-name: Step 4 Make a task list
